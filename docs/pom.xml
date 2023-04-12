@@ -118,6 +118,7 @@
                                         <include>quarkus-amazon-sns.adoc</include>
                                         <include>quarkus-amazon-sqs.adoc</include>
                                         <include>quarkus-amazon-ssm.adoc</include>
+                                        <include>quarkus-amazon-sts.adoc</include>
                                         <include>quarkus-amazon-cognitouserpools.adoc</include>
                                     </includes>
                                     <filtering>false</filtering>
